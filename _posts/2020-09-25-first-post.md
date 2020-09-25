@@ -1,7 +1,9 @@
 ---
-Under test: "Welcome to ALIVE AR!"
+title: "Welcome to ALIVE AR!"
 ---
 
-* Blog : https://alamos.kr
-* Google play :   https://play.google.com/store/apps/developer?id=ALAMOS
-* App store : https://apps.apple.com/kr/developer/hyeontaek-oh/id1440462743
+Links [Blog] [Google-play] [App-store]
+
+[Blog] : https://alamos.kr
+[Google-play] :   https://play.google.com/store/apps/developer?id=ALAMOS
+[App-store] : https://apps.apple.com/kr/developer/hyeontaek-oh/id1440462743
